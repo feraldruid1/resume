@@ -1,0 +1,128 @@
+* {
+  font-family: "Roboto";
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-weight: 400;
+}
+body {
+  height: 100vh;
+}
+#root {
+  height: 100%;
+}
+.first-box {
+  display: flex;
+}
+.second-box {
+  display: flex;
+  margin-top: 10px;
+}
+.third-box {
+  display: flex;
+  margin-top: 10px;
+}
+.four-box {
+  display: flex;
+  margin-top: 10px;
+}
+.mini-div-one {
+  display: flex;
+  align-items: center;
+}
+.mini-div-two {
+  display: flex;
+  align-items: center;
+}
+.mini-div-three {
+  display: flex;
+  align-items: center;
+}
+.mini-div-five {
+  display: flex;
+  align-items: center;
+}
+.border {
+  border: 7px solid black;
+  padding: 20px;
+  height: 100%;
+}
+.who {
+  color: blue;
+}
+.left-first {
+  width: 50%;
+}
+.left-second {
+  width: 50%;
+}
+.left-third {
+  width: 50%;
+}
+.left-four {
+  width: 50%;
+}
+.information {
+  color: #8c8e90;
+  margin-left: 5px;
+}
+.airbnb {
+  font-size: 20px;
+  margin-top: 15px;
+}
+.work {
+  margin-top: 15px;
+}
+.link {
+  margin-left: 5px;
+  color: blue;
+}
+.right-first {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.right-four {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.right-second {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.right-third {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+}
+.mini-border-first {
+  border-top: 3px solid black;
+}
+.mini-border-left {
+  margin-bottom: 10px;
+  width: 40px;
+  border-top: 3px solid black;
+}
+.information-second {
+  margin-top: 10px;
+  font-weight: 300;
+  font-size: 20px;
+}
+.information-third {
+  margin-top: 10px;
+  font-weight: 300;
+  font-size: 20px;
+}
+.skills {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+.skill {
+  margin-left: 10px;
+}
